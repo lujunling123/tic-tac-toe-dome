@@ -1,6 +1,8 @@
 # tic-tac-toe-dome
 React  tic-tac-toe 井字棋游戏
 
+## [react教程](https://react.docschina.org/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
